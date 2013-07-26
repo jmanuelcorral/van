@@ -1,0 +1,8 @@
+{
+  "name": "VAN",
+  "description": "MVC MicroFramework",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "plates": "0.4.8"
+  }
